@@ -1,0 +1,7 @@
+Bem vindo ao script
+
+[1] Puxar dados do cpf
+
+[2] Puxar dados do cnpj
+
+[3] Consultar gmail
